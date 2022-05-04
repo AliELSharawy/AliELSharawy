@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-# Personal Information:
-   .Name: Ali Hassan Ali Ahmed ELSharawy
-   .Date of Birth: 24/2/2001
-   .From: Alexandria, Egypt
+## Personal Information:
+   Name: Ali Hassan Ali Ahmed ELSharawy
+   Date of Birth: 24/2/2001
+   From: Alexandria, Egypt
 
-# Education:
+## Education:
    Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt
    Academic Mail: es-AliHassan2024@alexu.edu.eg
    Phone Number: +201279593928
    LinkedIn Account: https://www.linkedin.com/in/ali-hassan-elsharawy-96b163220/ 
 
-# Skills:
+## Skills:
    C/C++
    Java
    HTML
@@ -24,16 +24,16 @@
    Angular
    Linux Bash
 
-# Interests:
+## Interests:
    Full Stack development
    Problem Solving
    Competitive Programming
 
-# Certificates:
+## Certificates:
    ACM Algorithm Summer Training
    Participate ECPC
 
-# Projects:
+## Projects:
    Chess Game 1vs1 using C language
    Multi-threaded matrix Multiplication .....(for Linux)
    Caltrain simulation .... thread synchronization part only .....(for Linux)
