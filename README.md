@@ -47,7 +47,7 @@
       Producer/Consumer Web Application
       Signal Flow Graph Web Application  
       Linear Equations Solver using Numerical Methods Web Application
-        (gauss elimination, gauss jordan elimination, LU decomposition (doolittle-crout-cholesky), iterative methods(jacobi-gauss siedel))
+        (gauss elimination, gauss jordan elimination, LU decomposition(doolittle-crout-cholesky), iterative methods(jacobi-gauss siedel))
       non-Linear Equations Solver using Numerical Methods Web Application
         (bisection, false position, fixed point iteration, newton raphson, secant)
 
