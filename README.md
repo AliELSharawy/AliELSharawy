@@ -5,12 +5,15 @@
    Date of Birth: 24/2/2001\
    From: Alexandria, Egypt
 
-## Education:
-   Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt\
+## Contact Information:
+   Gmail: hsnalshrawyly56@gmail.com\
    Academic Mail: es-AliHassan2024@alexu.edu.eg\
    Phone Number: +201279593928\
-   LinkedIn Account: https://www.linkedin.com/in/ali-hassan-elsharawy-96b163220/ 
+   LinkedIn Account: https://www.linkedin.com/in/ali-hassan-elsharawy-96b163220/
 
+## Education:
+   Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt
+   
 ## Skills:
    C/C++\
    Java\
