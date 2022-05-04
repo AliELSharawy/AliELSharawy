@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## Personal Information:
-   Name: Ali Hassan Ali Ahmed ELSharawy/
-   Date of Birth: 24/2/2001/
-   From: Alexandria, Egypt/
+   Name: Ali Hassan Ali Ahmed ELSharawy\
+   Date of Birth: 24/2/2001\
+   From: Alexandria, Egypt\
 
 ## Education:
    Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt
