@@ -37,7 +37,6 @@
     Participate ECPC
 
 # Projects:
-  - C Projects
       Chess Game 1vs1 using C language
       Multi-threaded matrix Multiplication .....(for Linux)
       Caltrain simulation .... thread synchronization part only .....(for Linux)
