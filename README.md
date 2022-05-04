@@ -34,21 +34,21 @@
    Participate ECPC
 
 # Projects:
-     Chess Game 1vs1 using C language
-     Multi-threaded matrix Multiplication .....(for Linux)
-     Caltrain simulation .... thread synchronization part only .....(for Linux)
-     Simple Linux Shell using C language
+   Chess Game 1vs1 using C language
+   Multi-threaded matrix Multiplication .....(for Linux)
+   Caltrain simulation .... thread synchronization part only .....(for Linux)
+   Simple Linux Shell using C language
 
-     Paint Web Application
-     Email Web Application
-     Producer/Consumer Web Application
-     Signal Flow Graph Web Application  
-     Linear Equations Solver using Numerical Methods Web Application
-       (gauss elimination, gauss jordan elimination, LU decomposition(doolittle-crout-cholesky), iterative methods(jacobi-gauss siedel))
-     non-Linear Equations Solver using Numerical Methods Web Application
-       (bisection, false position, fixed point iteration, newton raphson, secant)
+   Paint Web Application
+   Email Web Application
+   Producer/Consumer Web Application
+   Signal Flow Graph Web Application  
+   Linear Equations Solver using Numerical Methods Web Application
+     (gauss elimination, gauss jordan elimination, LU decomposition(doolittle-crout-cholesky), iterative methods(jacobi-gauss siedel))
+   non-Linear Equations Solver using Numerical Methods Web Application
+     (bisection, false position, fixed point iteration, newton raphson, secant)
 
-     Descriptive HTML using JavaCC
+   Descriptive HTML using JavaCC
 
-     Data Structures and Algorithms Implementation using Java Language
-       (AVL Tree, Red Black Tree, Binary Heap, Sorting Algorithms, Perfect Hashing, ...)
+   Data Structures and Algorithms Implementation using Java Language
+     (AVL Tree, Red Black Tree, Binary Heap, Sorting Algorithms, Perfect Hashing, ...)
