@@ -33,7 +33,7 @@
    Competitive Programming
 
 ## Certificates:
-   ACM Algorithm Summer Training\
+   ACM Algorithm Summer Training 2021\
    Participate ECPC 2021
 
 ## Projects:
