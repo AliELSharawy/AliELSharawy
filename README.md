@@ -8,7 +8,7 @@
 ## Contact Information:
    Gmail: hsnalshrawyly56@gmail.com\
    Academic Mail: es-AliHassan2024@alexu.edu.eg\
-   LinkedIn Account: https://www.linkedin.com/in/ali-hassan-elsharawy-96b163220/ \
+   LinkedIn Account: https://www.linkedin.com/in/ali-hassan-elsharawy-96b163220 \
    Phone Number: +2 01279593928
 
 ## Education:
