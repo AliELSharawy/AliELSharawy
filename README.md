@@ -34,7 +34,7 @@
 
 ## Certificates:
    ACM Algorithm Summer Training\
-   Participate ECPC
+   Participate ECPC 2021
 
 ## Projects:
    Chess Game 1vs1 using C language\
