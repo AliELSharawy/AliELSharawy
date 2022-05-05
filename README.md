@@ -23,8 +23,8 @@
    Data Structures\
    OOP\
    Design Pattern\
-   Spring Boot\
-   Angular\
+   Spring Boot Framework\
+   Angular Framework\
    Linux Bash
 
 ## Interests:
