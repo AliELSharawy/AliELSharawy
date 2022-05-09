@@ -12,7 +12,7 @@
    Phone Number: 01279593928
 
 ## Education:
-   Undergraduate CSED student, Faculty of Engineering, ALexandria University, Egypt
+   Undergraduate CSED Student, Faculty of Engineering, ALexandria University, Egypt
    
 ## Skills:
    C/C++\
