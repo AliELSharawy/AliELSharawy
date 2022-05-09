@@ -42,10 +42,10 @@
    Multi-threaded matrix Multiplication (for Linux)\
    Caltrain simulation thread synchronization part only (for Linux)
 
+   Signal Flow Graph Web Application\ 
    Paint Web Application\
    Email Web Application\
    Producer/Consumer Web Application\
-   Signal Flow Graph Web Application\ 
    Linear Equations Solver using Numerical Methods Web Application\
       (gauss elimination, gauss jordan elimination, LU decomposition(doolittle-crout-cholesky), iterative methods(jacobi-gauss siedel))\
    non-Linear Equations Solver using Numerical Methods Web Application\
